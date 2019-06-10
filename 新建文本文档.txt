@@ -1,0 +1,5 @@
+diff = a`b`c+a`bc`+ab`c`+abc = a (+) b (+) c
+bor = a`bc`+ab`c`+abc`+abc = bc`+ ab + ac`
+si  = a`b`c+a`bc`+ab`c`+abc = a (+) b (+) c
+ci = abc`+a`bc+ab`c+abc = ab + bc + ac
+f= bor+ci = m`a`bc`+m`ab`c`+m`abc`+m`abc  mabc`+ma`bc+mab`c+mabc = m`bc` + m`ab + m`ac`+mab+mbc+mac = 
